@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## 欢迎来到康思雨的个人主页
+#### 此篇仅用于记录本人的学习路程和生活经历~
 
-You can use the [editor on GitHub](https://github.com/ksy-ly/ksy-ly.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 个人信息
+#### 姓名：康思雨
+#### 学校：福州大学
+#### 专业：软件工程
+### 学习路程
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 学习路程
+#### 高等数学B
+#### C语言
+#### 大学物理
+#### 数据结构与算法
+#### 离散数学
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ksy-ly/ksy-ly.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
