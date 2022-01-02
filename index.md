@@ -6,7 +6,9 @@
   <tr>
     <td width="75%">
       <h1>康思雨</h1>
-      <p><b>福州大学软件学院</b></p>
+      <p><b>学校：福州大学</b></p>
+      <p><b>学院：计算机与大数据学院</b></p>
+      <p><b>学号：222000229</b></p>
       <p><b>邮箱：1694651630@qq.com</b></p>
     </td>
     <td width="25%">
@@ -20,7 +22,7 @@
 #### 高等数学B
 <table border="0">
   <tr>
-  <img src="/2.jpg" width="100%">
+  <img src="/2.jpg" width="25%">
   </tr>
 </table>
 
