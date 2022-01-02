@@ -18,7 +18,7 @@
 
 ### 学习路程
 #### 高等数学B
-!(https://github.com/ksy-ly/ksy-ly.github.io/blob/main/2.jpg?raw=true)
+<img src="/2.jpg" width="100%">
 #### C语言
 #### 大学物理
 #### 数据结构与算法
