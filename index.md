@@ -18,7 +18,12 @@
 
 ### 学习路程
 #### 高等数学B
-<img src="/2.jpg" width="100%">
+<table border="0">
+  <tr>
+  <img src="/2.jpg" width="100%">
+  </tr>
+</table>
+
 #### C语言
 #### 大学物理
 #### 数据结构与算法
